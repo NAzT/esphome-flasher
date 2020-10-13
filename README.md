@@ -59,3 +59,4 @@ pip3 install -U \
 ## License
 
 [MIT](http://opensource.org/licenses/MIT) © Marcel Stör, Otto Winter
+
